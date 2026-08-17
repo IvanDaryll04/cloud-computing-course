@@ -60,3 +60,13 @@ AWS is an appropriate choice for the global e-commerce company because it provid
 * **Amazon RDS** – Provides managed relational databases for storing customer, product, and transaction data.
 
 ---
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| **Startup Company** | AWS | AWS provides a broad range of services, flexible scalability, and options that allow startups to begin with limited resources and expand as their applications grow. |
+| **Enterprise Organization** | AWS | AWS offers a mature global infrastructure, extensive enterprise services, strong security features, and a wide selection of tools for large-scale workloads. |
+| **Microsoft Environment** | Microsoft Azure | Azure provides excellent integration with Microsoft technologies such as Windows Server, Microsoft 365, Active Directory, and SQL Server. |
+| **AI / Machine Learning** | Google Cloud Platform (GCP) | GCP provides strong AI and machine learning services, powerful computing resources, and tools such as Vertex AI for developing and deploying ML models. |
+| **Kubernetes Deployment** | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service developed around Google's extensive experience with container orchestration. |
+| **Global Web Application** | AWS | AWS provides extensive global infrastructure, multiple Availability Zones and Regions, load balancing, and automatic scaling capabilities for highly available web applications. |
