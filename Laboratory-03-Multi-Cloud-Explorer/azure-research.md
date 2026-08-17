@@ -44,8 +44,7 @@ Enterprises commonly use Azure for application hosting, virtual machines, databa
 
 ## Screenshot
 
-Add a screenshot of the official Microsoft Azure homepage or Azure Portal below.
+<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/6615eb92-5280-46f5-b020-16287112d2b1" />
 
-![Microsoft Azure Official Homepage or Management Console](images/azure-screenshot.png)
 
 **Source:** [Microsoft Azure Official Website](https://azure.microsoft.com/)
