@@ -43,9 +43,7 @@ AWS Lambda is a serverless computing service that allows developers to run code 
 AWS is commonly used by enterprises for hosting websites and applications, data storage and backup, database management, software development, disaster recovery, big data processing, machine learning, and enterprise application migration. Organizations can also use AWS to build highly available and scalable systems across multiple Regions and Availability Zones.
 
 ## Screenshot
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/338eb55a-bfe1-413a-8320-0358fe460240" />
 
-Add a screenshot of the official AWS homepage or AWS Management Console below.
-
-![AWS Official Homepage or Management Console](images/aws-screenshot.png)
 
 **Source:** [AWS Official Website](https://aws.amazon.com/)
