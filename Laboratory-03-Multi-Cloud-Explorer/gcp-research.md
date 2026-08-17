@@ -43,9 +43,6 @@ BigQuery is a fully managed and serverless data warehouse designed for analyzing
 Enterprises commonly use Google Cloud for web and application hosting, data analytics, artificial intelligence and machine learning, containerized applications, database management, data storage, and large-scale data processing. Organizations can also use Google Kubernetes Engine to deploy and manage containerized enterprise applications.
 
 ## Screenshot
-
-Add a screenshot of the official Google Cloud homepage or Google Cloud Console below.
-
-![Google Cloud Official Homepage or Management Console](images/gcp-screenshot.png)
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/2f58cf32-1bea-4805-9253-f07a03d17245" />
 
 **Source:** [Google Cloud Official Website](https://cloud.google.com/)
